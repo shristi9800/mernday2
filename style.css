@@ -1,0 +1,25 @@
+
+    .div{
+      background-color: aqua;
+      text-decoration: underline;
+      color:blueviolet;
+    } 
+      #heading{
+        background-color: rgb(26, 144, 144);
+      text-decoration: underline;
+      color:rgb(191, 176, 205);
+    }
+    .headingtwo{
+      background-color: rgb(13, 221, 89);
+      text-decoration: underline;
+      color:rgb(149, 71, 132); 
+    }
+    .parent{
+      padding: 20px;
+      background-color: black;
+      background-position: right;
+      margin-top: 20px;
+      margin-bottom: 12px;
+      margin-right:15px;
+    }
+ 
